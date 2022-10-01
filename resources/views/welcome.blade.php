@@ -6,6 +6,7 @@
         @vite('resources/js/app.js')
     </head>
     <body class="antialiased">
+        <div id="app"></div>
         <h1 class="text-3xl font-bold underline">
             Hello world!
         </h1>
