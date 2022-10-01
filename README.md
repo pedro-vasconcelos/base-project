@@ -4,6 +4,9 @@
 ### Tailwind CSS 3
 ### Vue 3
 ### InertiaJS
+### Pest PHP
+### Pest Parallel Plugin
+### Laravel Pint
 
 ### Installation
 You can create a new project via composer:
