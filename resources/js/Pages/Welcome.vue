@@ -1,10 +1,12 @@
 <template>
+    <Head title="Welcome Page" />
     <div class="text-3xl underline">Welcome</div>
 </template>
 
 <script>
+
 export default {
-    name: "Welcome"
+    name: "Welcome",
 }
 </script>
 
