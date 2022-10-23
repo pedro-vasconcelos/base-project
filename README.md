@@ -3,10 +3,12 @@
 ### Laravel 9
 ### Tailwind CSS 3
 ### Vue 3
+### Pinia
 ### Pest PHP
 ### Pest Parallel Plugin
 ### Laravel Pint
 ### Laravel Ray
+### Laravel Dusk
 
 ### Installation
 You can create a new project via composer:
