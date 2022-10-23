@@ -15,5 +15,6 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     ray('Ray is installed!');
+
     return view('app');
 });
