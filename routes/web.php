@@ -14,7 +14,6 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return inertia('Welcome', [
-        'xpto' => 'op',
-    ]);
+    ray('Ray is installed!');
+    return view('app');
 });
